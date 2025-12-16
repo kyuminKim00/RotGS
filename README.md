@@ -1,5 +1,5 @@
 # RotGS: Rotation-Guided 3D Gaussian Splatting for Turntable Sequences without Structure-from-Motion
-## Eurographics 2026
+### Eurographics 2026
 Kyumin Kim, Dohae Lee, Hanul Baek, In-Kwon Lee<br>
 [Project Page](TBD) | [Full Paper](TBD) | [Video](TBD) | [Dataset](TBD)<br><br>
 ![Teaser image](assets/teaser.png)
@@ -13,7 +13,7 @@ git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
 conda env create -f environment.yml
 conda activate rotgs
 ```
-The code is based on [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+The code and environment is based on [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 
 
 ## Training
