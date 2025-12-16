@@ -78,6 +78,10 @@ Our dataset file structure:
 |   |---<image 0> # background removed images
 |   |---<image 1>
 |   |---...
+|---images_orig
+|   |---<image 0> # originam images
+|   |---<image 1>
+|   |---...
 |---sparse
     |---0
         |---cameras.txt # We only need camera intrinsic parameter
