@@ -9,8 +9,8 @@ Abstract: *The field of 3D reconstruction from multi-view images has advanced ra
 
 ## Installation
 ```shell
-git clone https://github.com/kyuminKim00/RotGS.git
-conda env create -f environment.yml
+git clone https://github.com/kyuminKim00/RotGS.git --recursive
+conda env create -f environment.yml 
 conda activate rotgs
 ```
 The code and environment is based on [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
