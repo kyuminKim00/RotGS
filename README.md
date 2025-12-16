@@ -1,5 +1,5 @@
 # RotGS: Rotation-Guided 3D Gaussian Splatting for Turntable Sequences without Structure-from-Motion
-**Eurographics 2026**<br>
+*Eurographics 2026*<br>
 Kyumin Kim, Dohae Lee, Hanul Baek, In-Kwon Lee<br>
 [Project Page](TBD) | [Full Paper](TBD) | [Video](TBD) | [Dataset](TBD)
 ![Teaser image](assets/teaser.png)
