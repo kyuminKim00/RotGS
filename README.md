@@ -79,7 +79,7 @@ Our dataset file structure:
 |   |---<image 1>
 |   |---...
 |---images_orig
-|   |---<image 0> # originam images
+|   |---<image 0> # original images
 |   |---<image 1>
 |   |---...
 |---sparse
