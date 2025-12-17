@@ -10,6 +10,7 @@ Abstract: *The field of 3D reconstruction from multi-view images has advanced ra
 ## Installation
 ```shell
 git clone https://github.com/kyuminKim00/RotGS.git --recursive
+cd RotGS
 conda env create -f environment.yml 
 conda activate rotgs
 ```
@@ -73,6 +74,8 @@ Our dataset loaders expect the following datset structure:
 We also provide turntable dataset.<br>
 Our dataset file structure:
 ```
+# if data dir name drum_25 : 
+        Data -> nerf_synthetic drum, Fixed camera -> spherical coords, theta = 25°, facing scene center
 <location>
 |---images
 |   |---<image 0> # background removed images
