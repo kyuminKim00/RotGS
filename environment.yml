@@ -1,4 +1,4 @@
-name: rotgs
+name: rotgsa
 channels:
   - pytorch
   - conda-forge
@@ -20,7 +20,7 @@ dependencies:
     - joblib
     - open3d
     - imageio
-    - e3nn=0.5.6
-    - einops=0.6.1
+    - e3nn==0.5.6
+    - einops==0.6.1
     - yacs
     
