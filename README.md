@@ -75,7 +75,7 @@ We also provide turntable dataset.<br>
 Our dataset file structure:
 ```
 # if data dir name drum_25 : 
-        Data -> nerf_synthetic drum, Fixed camera -> spherical coords, theta = 25°, facing scene center
+        Data -> nerf_synthetic drum, Fixed camera -> spherical coords, theta = 25°, facing the scene center
 <location>
 |---images
 |   |---<image 0> # background removed images
